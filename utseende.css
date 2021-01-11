@@ -1,0 +1,84 @@
+body{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#pop{
+    height: 20%;
+}
+
+#bac{
+    height: 20%;
+}
+
+#filmer{
+    height: 40%;
+    
+
+}
+
+#randomsnacks{
+    height: 30%;
+}
+
+#kino{
+    height: 35%;
+    margin-left:3%;
+}
+
+#kino2{
+    height: 35%;
+    margin-left: 
+}
+
+#bestill{
+    height: 5%;
+    width: 7%;
+}
+
+#bestill:hover{
+    background-color:coral;
+}
+
+#regning{
+    padding: 10px;
+    margin: 50px;
+    background-color: cornflowerblue;
+    border: 5px solid black;
+    width: 30%;
+    height: 30%;
+    font-size: 20px;
+}
+
+#regn{
+    font-size: 25px;
+    color: black;
+    margin-left: 14%;
+}
+
+#brus{
+    height: 30%;
+    width: 40%;
+}
+
+#kvittering{
+    height: 5%;
+    width: 7%;
+}
+
+#kvittering:hover{
+    background-color:palegreen;
+}
+
+#checkCodeButton {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
